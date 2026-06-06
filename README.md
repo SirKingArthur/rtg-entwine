@@ -1,6 +1,6 @@
 # Random Traits Generator #
 
-A web reandomizer of the closed species Entwine that caters to the different placements and "rarities" of the different MYOs traits. 
+A web randomizer of the closed species Entwine that caters to the different placements and "rarities" of the different MYOs traits. 
 
 Code edited by me, cloned from [Random Animal Generator by YJB-Gay and tuimiz](https://github.com/YJB-Gay/rag)
 

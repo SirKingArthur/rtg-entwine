@@ -4,7 +4,7 @@ An MYO trait randomizer for the Entwine species that caters to the different pla
 
 Code edited by me, cloned from [Random Animal Generator by YJB-Gay and tuimiz](https://github.com/YJB-Gay/rag)
 
-All credit to  
+All credit to:
 - [tuimiz on Itch.io](https://tuimiz.itch.io/)  
 - [@tuimiz on TikTok](https://www.tiktok.com/@tuimiz)
 - [YJB-Gay on GitHub](https://github.com/YJB-Gay) (the guy I yoinked the web build from)

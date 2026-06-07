@@ -137,7 +137,7 @@ function setColorScheme(scheme) {
     });
 }
 let animalData = {
-    base: [await fetch('base-no.txt')],
+    base: [],
     head: [],
     ears: [],
     eyes: [],

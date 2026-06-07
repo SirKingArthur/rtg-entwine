@@ -137,7 +137,9 @@ function setColorScheme(scheme) {
     });
 }
 let animalData = {
-    base: [],
+    base: [
+        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    ],
     head: [],
     ears: [],
     eyes: [],

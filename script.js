@@ -137,8 +137,12 @@ function setColorScheme(scheme) {
     });
 }
 let animalData = {
-    base: [],
-    head: [],
+    base: [
+        "1", "2", "3", "4", "5", "6", "7", "1", "2", "3", "4", "5", "6", "1", "2", "3", "4", "5", "1", "2", "3", "4", "1", "2", "3", "1", "2", "1"
+    ],
+    head: [
+        "Ribbon Thread Feelers", "Ribbon Bundle Feelers", "Ribbon Bow Feelers", "Ribbon Blindfold Feelers", "Yarn Ball Feelers", "Woven Ribbon Feelers", "Mock Wing Ribbon Feelers", "Weaving Scarf Feelers", "Ribbon Thread Feelers", "Ribbon Bundle Feelers", "Ribbon Bow Feelers", "Ribbon Blindfold Feelers", "Yarn Ball Feelers", "Ribbon Thread Feelers", "Ribbon Bundle Feelers", "Ribbon Bow Feelers", "Ribbon Thread Feelers"
+    ],
     ears: [],
     eyes: [],
     nose: [],

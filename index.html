@@ -77,34 +77,16 @@
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>- Random Trait Generator -</h1>
-    <p class="subtitle">-Website Inspired by Tuimiz, Code Forked from YJB-Gay's Web adaption of Tuimiz's App by Arthur-</p>
-    <div class="main">
-      <div class="buttons">
-        <button class="part-btn" data-part="base">No. of Head Traits</button>
-        <button class="part-btn" data-part="head">Head Trait/s</button>
-        <button class="part-btn btn-indent" data-part="ears">Feeler Trait (Head)</button>
-        <button class="part-btn btn-indent" data-part="eyes">Chest Fluff Trait</button>
-        <button class="part-btn btn-indent" data-part="nose">Tail Trait</button>
-        <button class="part-btn" data-part="legs">Feeler Trait (Tail)</button>
-        <button class="part-btn btn-indent" data-part="colour">Colour</button>
-        <button id="generateAll">Gen All</button>
-        <button id="clearAll">Clear</button>
-      </div>
-      <div class="results">
-        <div><strong>No. of Head Traits:</strong> <span id="base-result">Click No. of Head Traits</span></div>
-        <div><strong>Head Trait/s:</strong> <span id="head-result">Click Head Traits</span></div>
-        <div><strong>Feeler Trait (Head):</strong> <span id="ears-result">Click Feeler Trait (Head)</span></div>
-        <div><strong>Chest Fluff Trait:</strong> <span id="eyes-result">Click Chest Fluff Trait</span></div>
-        <div><strong>Tail Trait:</strong> <span id="nose-result">Click Tail Trait</span></div>
-        <div><strong>Feeler Trait (Tail):</strong> <span id="legs-result">Click Feeler Trait (Tail)</span></div>
-        <div><strong>Colour:</strong> <span id="colour-result">Click Colour</span></div>
-      </div>
-    </div>
-    <div class="divider"></div>
-    <div class="final-section">
-    </div>
+  <div id="story">
+  <p><span id="desc"></span>
+     <!--this part is where the "change person" button goes-->
+     <span id="person"></span>
+     <span id="hair"></span>
+     <span id="eyes"></span></p>
+  <ul>
+     <li id="food"></li>
+     <li id="thing"></li>
+  </ul>
   </div>
   <script src="script.js"></script>
 </body>

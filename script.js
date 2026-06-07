@@ -137,7 +137,7 @@ function setColorScheme(scheme) {
     });
 }
 let animalData = {
-    base: [],
+    base: [await fetch('base-no.txt'],
     head: [],
     ears: [],
     eyes: [],
@@ -173,7 +173,7 @@ async function loadAnimals() {
         console.log('First few animals:', allAnimals.slice(0, 5));
         
         const fallbackAnimals = [
-            ...allAnimals
+            
         ];
         
         const weightedAnimals = [

@@ -185,12 +185,7 @@ async function loadAnimals() {
         ];
         
         const realColors = [
-            "red", "green", "blue", "yellow", "orange", "purple", "pink", "brown", "black", "white",
-            "gray", "cyan", "magenta", "lime", "olive", "navy", "teal", "maroon", "coral", "salmon",
-            "gold", "silver", "bronze", "violet", "indigo", "turquoise", "lavender", "peach", "mint", "crimson",
-            "beige", "ivory", "tan", "chocolate", "plum", "aqua", "fuchsia", "chartreuse", "khaki", "slate",
-            "periwinkle", "sienna", "mahogany", "amber", "ruby", "emerald", "topaz", "onyx", "jade", "cobalt",
-            "scarlet", "cerulean", "sepia", "burgundy", "lilac", "wheat", "rainbow", "neon", "transparent"
+            "real"
         ];
         
         const weightedColors = [

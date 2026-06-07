@@ -184,9 +184,7 @@ async function loadAnimals() {
             ...fallbackAnimals
         ];
         
-        const realColors = [
-            animalData.color
-        ];
+        const realColors = await fetch('colors.txt');
         
         const weightedColors = [
             ...realColors, ...realColors, ...realColors, ...realColors,

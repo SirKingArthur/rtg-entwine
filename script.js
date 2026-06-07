@@ -175,9 +175,7 @@ async function loadAnimals() {
         console.log('First few animals:', allAnimals.slice(0, 5));
         
         const fallbackAnimals = [
-            "mouse", "duck", "horse", "wolf", "lion", "tiger", "bear", "elephant",
-            "giraffe", "rhino", "dragon", "eagle", "owl", "snake", "lizard", "frog",
-            "cat", "dog", "rabbit", "fox", "deer", "zebra", "hippo", "crocodile"
+            "error"
         ];
         
         const weightedAnimals = [
@@ -214,9 +212,7 @@ async function loadAnimals() {
     } catch (error) {
         console.error('Failed to load animals.txt, using fallback data:', error);
         const fallback = [
-            "mouse", "duck", "horse", "wolf", "lion", "tiger", "bear", "elephant",
-            "giraffe", "rhino", "dragon", "eagle", "owl", "snake", "lizard", "frog",
-            "cat", "dog", "rabbit", "fox", "deer", "zebra", "hippo", "crocodile"
+            "error"
         ];
         animalData.base = fallback;
         animalData.head = fallback;

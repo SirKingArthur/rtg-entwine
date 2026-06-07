@@ -208,7 +208,7 @@ async function loadAnimals() {
     } catch (error) {
         console.error('Failed to load animals.txt, using fallback data:', error);
         const fallback = [
-            "error"
+            animalData
         ];
         animalData.base = fallback;
         animalData.head = fallback;

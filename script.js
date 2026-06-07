@@ -176,7 +176,7 @@ async function loadAnimals() {
         console.log('First few animals:', allAnimals.slice(0, 5));
         
         const fallbackAnimals = [
-            
+            ...allAnimals
         ];
         
         const weightedAnimals = [
@@ -185,7 +185,7 @@ async function loadAnimals() {
         ];
         
         const realColors = [
-            "real"
+            animalData.color
         ];
         
         const weightedColors = [

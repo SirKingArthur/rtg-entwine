@@ -138,7 +138,7 @@ function setColorScheme(scheme) {
 }
 let animalData = {
     base: [
-        "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+        "Ribbon Thread Feelers", "Ribbon Bundle Feelers", "Ribbon Bow Feelers", "Ribbon Blindfold Feelers", "Yarn Ball Feelers", "Woven Ribbon Feelers", "Weaving Scarf Feelers", "Ribbon Thread Feelers", "Ribbon Bundle Feelers", "Ribbon Bow Feelers", "Ribbon Blindfold Feelers", "Yarn Ball Feelers", "Ribbon Thread Feelers", "Ribbon Bundle Feelers", "Ribbon Bow Feelers", "Ribbon Thread Feelers" 
     ],
     head: [],
     ears: [],

@@ -1,6 +1,1 @@
- "red", "green", "blue", "yellow", "orange", "purple", "pink", "brown", "black", "white",
-        "gray", "cyan", "magenta", "lime", "olive", "navy", "teal", "maroon", "coral", "salmon",
-        "gold", "silver", "bronze", "violet", "indigo", "turquoise", "lavender", "peach", "mint", "crimson",
-        "beige", "ivory", "tan", "chocolate", "plum", "aqua", "fuchsia", "chartreuse", "khaki", "slate",
-        "periwinkle", "sienna", "mahogany", "amber", "ruby", "emerald", "topaz", "onyx", "jade", "cobalt",
-        "scarlet", "cerulean", "sepia", "burgundy", "lilac", "wheat", "rainbow", "neon", "transparent"
+"Red", "Green", "Blue", "Yellow", "Orange", "Purple", "Pink", "Brown", "Black", "White", "Gray", "Cyan", "Magenta", "Lime", "Olive", "Navy", "Teal", "Maroon", "Coral", "Salmon", "Gold", "Silver", "Bronze", "Violet", "Indigo", "Turquoise", "Lavender", "Peach", "Mint", "Crimson", "Beige", "Ivory", "Tan", "Chocolate", "Plum", "Aqua", "Fuchsia", "Chartreuse", "Khaki", "Slate", "Periwinkle", "Sienna", "Mahogany", "Amber", "Ruby", "Emerald", "Topaz", "Onyx", "Jade", "Cobalt", "Scarlet", "Cerulean", "Sepia", "Burgundy", "Lilac", "Wheat", "Rainbow", "Neon", "Transparent"
